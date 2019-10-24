@@ -1,0 +1,15 @@
+<div class="card">
+    <header class="card-header">
+        <p class="card-header-title">
+            {{ .Get "header" }}
+        </p>
+        <a href="#{{ .Get "id" }}" data-action="collapse" class="card-header-icon is-hidden-fullscreen" aria-label="more options">
+			<span class="icon">
+				<i class="fas fa-angle-down" aria-hidden="true"></i>
+			</span>
+        </a>
+    </header>
+    <div id="{{ .Get "id" }}" class="is-collapsible {{ if isset .Params "active" }}is-active{{ end }}" {{ if isset .Params "dataParent" }} data-parent={{ .Get "dataParent"}} {{ end }}>
+        <div class="card-content">{{ .Inner | markdownify}}</div>
+    </div>
+</div>

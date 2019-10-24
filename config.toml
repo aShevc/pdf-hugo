@@ -1,0 +1,16 @@
+baseURL = "http://peopledoingfitness.com/"
+languageCode = "en-us"
+title = "People Doing Fitness"
+
+theme = "jeffprod"
+disqusShortname = "people-doing-fitness"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+
+
+

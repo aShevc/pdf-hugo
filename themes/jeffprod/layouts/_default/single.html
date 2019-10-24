@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="columns">
+    <div class="column is-9">
+        <div class="tile is-child box">
+            <div class="content">
+                <h3>{{ .Title }}</h3>
+                {{ .Content }}
+
+
+
+            </div>
+            {{if .Params.comments}}
+            <br>
+            {{ partial "disqus.html" . }}
+            {{end}}
+        </div>
+
+    </div>
+    <div class="column is-3">
+        {{ partial "widget-members.html" . }}<br>
+        {{ partial "widget-tags.html" . }}<br>
+        {{ partial "widget-archives.html" . }}
+    </div>
+</div>
+
+{{ end }}
