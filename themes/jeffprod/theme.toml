@@ -3,7 +3,6 @@
 
 name = "Jeffprod"
 license = "MIT"
-license = "MIT"
 licenselink = "https://github.com/Tazeg/hugo-blog-jeffprod/blob/master/LICENSE"
 description = "A new theme blog for HUGO built with Bulma CSS. Including archives and tags widgets."
 homepage = "https://github.com/Tazeg/hugo-blog-jeffprod"

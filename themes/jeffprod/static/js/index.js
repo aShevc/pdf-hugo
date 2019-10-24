@@ -14,7 +14,7 @@ ready(function () {
 
 	bulmaCollapsible.attach();
 
-	var burgers = document.querySelectorAll('.burger');
+	/*var burgers = document.querySelectorAll('.burger');
 	[].forEach.call(burgers, function (burger) {
 		_clickEvents.forEach(function (clickEvent) {
 			burger.addEventListener(clickEvent, function (e) {
@@ -112,7 +112,7 @@ ready(function () {
 				}
 			});
 		});
-	});
+	});*/
 });
 
 document.addEventListener('DOMContentLoaded', () => {
