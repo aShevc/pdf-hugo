@@ -18,32 +18,7 @@ jobs:
 
       #- run:
       #   name: build
-      #   command: hugo
-
-      #- run:
-      #    name: Refresh Hugo
-      #    command:
-      #      sudo snap refresh hugo
-
-      - run:
-          name: Find Hugo
-          command:
-            snap find hugo
-
-      - run:
-          name: View Path
-          command:
-            echo $PATH
-
-      - run:
-          name: Add snap to path
-          command:
-            export PATH=/snap/bin:$PATH
-
-      - run:
-          name: View Path
-          command:
-            echo $PATH
+      #   command: add snap to path?
 
       - run:
           name: Display version through snap
@@ -57,6 +32,10 @@ jobs:
       - run:
            name: build
            command: snap run hugo
+
+      - run:
+          name: Clean copy dir
+          command: ssh -i ashevchenko.pem -o "StrictHostKeyChecking=no" ubuntu@ec2-3-123-146-68.eu-central-1.compute.amazonaws.com "rm -rf pdf-build"
 
       - run:
           name: Copy over build
