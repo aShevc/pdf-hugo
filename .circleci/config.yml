@@ -26,6 +26,10 @@ jobs:
       #   command: hugo
 
       - run:
+          name: Set PK permissions
+          command: sudo chmod 400 ashevchenko.pem
+
+      - run:
            name: build
            command: touch test
 
