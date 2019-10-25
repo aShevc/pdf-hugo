@@ -20,10 +20,10 @@ jobs:
       #   name: build
       #   command: hugo
 
-      - run:
-          name: Refresh Hugo
-          command:
-            snap refresh hugo
+      #- run:
+      #    name: Refresh Hugo
+      #    command:
+      #      sudo snap refresh hugo
 
       - run:
           name: Find Hugo
