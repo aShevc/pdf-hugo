@@ -1,0 +1,30 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: debian:stretch
+
+    steps:
+      - checkout
+
+      - run:
+          name: Greeting
+          command: echo Hello, world.
+
+      - run:
+          name: Install Hugo
+          command:
+            sudo apt-get -y -qq update
+            sudo apt-get -y install hugo
+
+      - run:
+          name: build
+          command: hugo
+
+      - run:
+          name: Copy over build
+          command: scp -i ashevchenko.pem -o "StrictHostKeyChecking=no" -r public ubuntu@ec2-3-123-146-68.eu-central-1.compute.amazonaws.com:pdf-build
+
+      - run:
+          name: Deploy build
+          command: ssh -i ashevchenko.pem -o "StrictHostKeyChecking=no" ubuntu@ec2-3-123-146-68.eu-central-1.compute.amazonaws.com "./pdf-update.sh"
