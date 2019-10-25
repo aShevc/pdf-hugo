@@ -38,7 +38,12 @@ jobs:
       - run:
           name: Add snap to path
           command:
-            export PATH=/snap/bin/:$PATH
+            export PATH=/snap/bin:$PATH
+
+      - run:
+        name: View Path
+        command:
+          echo $PATH
 
       - run:
           name: Display version
