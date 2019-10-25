@@ -41,9 +41,14 @@ jobs:
             export PATH=/snap/bin:$PATH
 
       - run:
-        name: View Path
-        command:
-          echo $PATH
+          name: View Path
+          command:
+            echo $PATH
+
+      - run:
+          name: Display version through snap
+          command:
+            snap run hugo version
 
       - run:
           name: Display version
