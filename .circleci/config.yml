@@ -12,9 +12,13 @@ jobs:
           command: echo Hello, world.
 
       - run:
-          name: Install Hugo
+          name: Update apt-get
           command:
             sudo apt-get -y -qq update
+
+      - run:
+          name: Install Hugo
+          command:
             sudo apt-get -y install hugo
 
       - run:
