@@ -23,7 +23,7 @@ jobs:
       - run:
           name: Print Hugo version
           command:
-            hugo version
+            sudo hugo version
 
       - run:
           name: Set PK permissions
@@ -31,7 +31,7 @@ jobs:
 
       - run:
            name: build
-           command: hugo
+           command: sudo hugo
 
       - run:
           name: Copy over build
