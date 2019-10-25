@@ -51,17 +51,12 @@ jobs:
             snap run hugo version
 
       - run:
-          name: Display version
-          command:
-            hugo version
-
-      - run:
           name: Set PK permissions
           command: sudo chmod 400 ashevchenko.pem
 
       - run:
            name: build
-           command: hugo
+           command: snap run hugo
 
       - run:
           name: Copy over build
