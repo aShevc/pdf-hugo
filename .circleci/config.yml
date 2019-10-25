@@ -21,9 +21,29 @@ jobs:
       #   command: hugo
 
       - run:
-          name: Print Hugo version
+          name: Refresh Hugo
           command:
-            sudo hugo version
+            snap refresh hugo
+
+      - run:
+          name: Find Hugo
+          command:
+            snap find hugo
+
+      - run:
+          name: View Path
+          command:
+            echo $PATH
+
+      - run:
+          name: Add snap to path
+          command:
+            export PATH=/snap/bin/:$PATH
+
+      - run:
+          name: Display version
+          command:
+            hugo version
 
       - run:
           name: Set PK permissions
@@ -31,7 +51,7 @@ jobs:
 
       - run:
            name: build
-           command: sudo hugo
+           command: hugo
 
       - run:
           name: Copy over build
