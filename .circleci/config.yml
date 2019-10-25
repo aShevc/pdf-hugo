@@ -12,18 +12,18 @@ jobs:
           command: echo Hello, world.
 
       - run:
-          name: Update apt-get
-          command:
-            sudo apt-get -y -qq update
-
-      - run:
           name: Install Hugo
           command:
-            sudo apt-get -y install hugo
+            snap install hugo
 
       #- run:
       #   name: build
       #   command: hugo
+
+      - run:
+          name: Print Hugo version
+          command:
+            hugo version
 
       - run:
           name: Set PK permissions
@@ -31,11 +31,11 @@ jobs:
 
       - run:
            name: build
-           command: touch test
+           command: hugo
 
       - run:
           name: Copy over build
-          command: scp -i ashevchenko.pem -o "StrictHostKeyChecking=no" test ubuntu@ec2-3-123-146-68.eu-central-1.compute.amazonaws.com:pdf-build-test
+          command: scp -i ashevchenko.pem -o "StrictHostKeyChecking=no" -r public ubuntu@ec2-3-123-146-68.eu-central-1.compute.amazonaws.com:pdf-build
 
       - run:
           name: Deploy build
