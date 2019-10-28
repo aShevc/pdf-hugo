@@ -40,6 +40,7 @@
             <div class="navbar-end">
                 <!--<a class="navbar-item" href="{{ "/about" | absURL }}">About</a>-->
                 <a class="navbar-item" href="{{ "/contact" | absURL }}">Contact</a>
+                <a class="navbar-item" href="{{ "/wod" | absURL }}">WODs</a>
             </div>
         </div>
     </nav>
@@ -47,18 +48,6 @@
 
     <!-- hero -->
     <section class="hero is-info is-medium">
-        {{ if eq .Type "post" }}
-        <!--<div class="hero-body"></div>-->
-        <!--<div style="padding-bottom: 2rem"></div>-->
-        <div class="hero-body" style="background-image: url({{ "img/pdf_upd_.jpg" | absURL }});">
-        <div class="container has-text-centered">
-            <br>
-            <h4 class="title is-size-2">
-                Blog
-            </h4>
-        </div>
-        </div>
-        {{ else }}
         <div class="hero-body" style="background-image: url({{ "img/pdf_upd_.jpg" | absURL }});">
             <div class="container has-text-centered">
                 <br>
@@ -66,7 +55,11 @@
                     {{ if eq .Type "tags" }}
                         #{{ .Title }}
                     {{ else if eq .Type "archives" }}
-                        Archive {{ .Title }}
+                        {{ .Title }}
+                    {{ else if eq .Title "Wods" }}
+                        WODS
+                    {{ else if or (eq .Type "blog") (eq .Type "wod") }}
+                        Blog
                     {{ else }}
                         People Doing Fitness
                     {{ end }}
@@ -76,5 +69,4 @@
                 {{ end }}
             </div>
         </div>
-        {{ end }}
     </section>

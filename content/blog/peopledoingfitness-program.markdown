@@ -6,12 +6,12 @@ tags: []
 author: "Andriy Shevchenko"
 member_resource: true
 comments: true
+summary_enabled: false
 ---
 
 Программа для тренировок People Doing Fitness это программа
 функционального фитнеса, где на каждую неделю вы найдете план для 5 
 тренировочных дней.
-<!--more-->
 
 Программа включает в себя две версии, **Full Pack** и **Essentials**
 
@@ -53,7 +53,7 @@ comments: true
 
 См. как иcпользование приложения выглядит на практике ниже:
 
-{{% collapsible-card-md id="collapsible-card" header="SugarWOD: использование на практике" %}}
+{{% collapsible-card-md id="collapsible-card-pdf-program" header="SugarWOD: использование на практике" %}}
 <img src="/img/sugarWOD_1.jpg" width="280px"></img>
 <img src="/img/sugarWOD_2.jpg" width="280px"></img>
 <img src="/img/sugarWOD_3.jpg" width="280px"></img>

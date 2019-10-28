@@ -6,6 +6,7 @@ tags: []
 author: "Andriy Shevchenko"
 member_resource: true
 comments: true
+summary_enabled: false
 ---
 
 Следуйте инструкциям ниже чтобы присоединиться к программе тренировок:
@@ -27,7 +28,7 @@ comments: true
 <img src="/img/sugarWOD_8.jpg" width="280px"></img>
 <img src="/img/sugarWOD_9.jpg" width="280px"></img>
 {{% /collapsible-card-md %}}
-
+<br>
 
 **Стоимость программы:**
 **8 USD** в месяц. Вы можете присоединиться к программе бесплатно. Спустя

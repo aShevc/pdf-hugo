@@ -6,14 +6,13 @@ tags: []
 author: Andriy Shevchenko
 member_resource: true
 comments: true
+summary_enabled: false
 ---
 Ниже пример тренировочной программы People Doing Fitness, приведенный
 в том виде, в котором он публикуется на платформе SugarWOD. Программа 
 на каждый день включает в себя описание тренировки, руководство к
 выполнению, демо видео и руководство к модификации движений для атлетов
 разного уровня. Программа включает в себя две версии, **Full Pack** и **Essentials**
-
-<!--more-->
 
 В то время как версия **Full Pack** предназначена для выполнения в 
 полноценно оборудованных залах, для выполнения программы **Essentials** вам
@@ -24,8 +23,8 @@ comments: true
 оборудования, версии тренировки Full Pack и Essentials будут идентичны.  
 
 
-<div id="accordion">
-{{% collapsible-card-md id="collapsible-card-1" header="Mon (Full Pack/Essentials) | Open 20.2" dataParent="accordion"%}}
+<div id="accordion-sample-programming-week">
+{{% collapsible-card-md id="collapsible-card-sample-programming-week-1" header="Mon (Full Pack/Essentials) | Open 20.2" dataParent="accordion-sample-programming-week"%}}
 
 ### Описание
 
@@ -127,8 +126,8 @@ Official Scaled Weight: ♀10 Kilo. dumbbells ♂ 15 kilo dumbbells
 
 [Официальное видео](http://www.youtube.com/watch?v=cAu5ihUIX_0&feature=youtu.be)
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-2"
- header="Tue (Full Pack/Essentials): Part A | Arch / Hollow EMOM" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-sample-programming-week-2"
+ header="Tue (Full Pack/Essentials): Part A | Arch / Hollow EMOM" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 
@@ -165,8 +164,8 @@ even: Hollow 20-30 sec
 
 [Arch Hold / Положение Арки](https://www.youtube.com/watch?v=jelLnjPq4ck)
 {{% /collapsible-card-md %}}
-{{% collapsible-card-md id="collapsible-card-3"
-header="Tue (Full Pack): Part B | AMRAP 20 Rope Climbs/Dips/Sit ups/Swings" dataParent="accordion" %}}
+{{% collapsible-card-md id="collapsible-card-sample-programming-week-3"
+header="Tue (Full Pack): Part B | AMRAP 20 Rope Climbs/Dips/Sit ups/Swings" dataParent="accordion-sample-programming-week" %}}
 ### Описание
 **AMRAP 20**
 
@@ -241,8 +240,8 @@ header="Tue (Full Pack): Part B | AMRAP 20 Rope Climbs/Dips/Sit ups/Swings" data
 * Приседания
 * Становая Тяга
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-4"
- header="Tue (Essentials): Part B | AMRAP 20 Pull Ups/Dips/Sit ups/Swings" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-4-sample-programming-week"
+ header="Tue (Essentials): Part B | AMRAP 20 Pull Ups/Dips/Sit ups/Swings" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 **AMRAP 20**
@@ -311,8 +310,8 @@ header="Tue (Full Pack): Part B | AMRAP 20 Rope Climbs/Dips/Sit ups/Swings" data
 * Приседания
 * Становая Тяга
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-5"
- header="Thu (Full Pack / Essentials) | 50 DB Busters" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-5-sample-programming-week"
+ header="Thu (Full Pack / Essentials) | 50 DB Busters" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 50 Dumbbell Busters
@@ -355,8 +354,8 @@ header="Tue (Full Pack): Part B | AMRAP 20 Rope Climbs/Dips/Sit ups/Swings" data
 
 [Dumbbell Push Press / Швунг Гантелей](https://www.youtube.com/watch?v=MqvN10OF5fo)
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-6"
- header="Fri (Full Pack) | Lifting: Deadlifts" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-sample-programming-week-6"
+ header="Fri (Full Pack) | Lifting: Deadlifts" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 Deadlift 2-2-2-2-2-2-2
@@ -384,8 +383,8 @@ Deadlift 2-2-2-2-2-2-2
 
 * Гимнастика / Верхний плечевой пояс
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-7"
- header="Fri (Essentials) | Lifting: Deadlifts" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-sample-programming-week-7"
+ header="Fri (Essentials) | Lifting: Deadlifts" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 **Perform for quality:**
@@ -441,8 +440,8 @@ Dumbbell Deadlifts- 75 reps in as few sets as possible
 
 * Гимнастика / Верхний плечевой пояс
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-8"
- header="Sat (Full Pack) | EMOM 20 Overhead & Inversion Skills" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-sample-programming-week-8"
+ header="Sat (Full Pack) | EMOM 20 Overhead & Inversion Skills" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 **EMOM 20 (5 rounds)**
@@ -524,8 +523,8 @@ Cначала вы выведете удобным способом штангу
 * Гимнастика / Верхний плечевой пояс
 * Становая Тяга
 
-{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-9"
- header="Sat (Essentials) | EMOM 20 Overhead & Inversion Skills" dataParent="accordion" %}}
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-sample-programming-week-9"
+ header="Sat (Essentials) | EMOM 20 Overhead & Inversion Skills" dataParent="accordion-sample-programming-week" %}}
 
 ### Описание
 **EMOM 20 (5 rounds)**

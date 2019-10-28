@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "post").ByPublishDate.Reverse }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "in" (slice "blog" "wod")).ByPublishDate.Reverse }}
 
 <div class="columns">
     <div class="column is-9">
@@ -14,7 +14,15 @@
                                     Published at {{ .Date.Format "January 2, 2006" }} &middot;
                                     <i class="far fa-clock"></i>&nbsp;{{.ReadingTime}} min read
                                 </p>
-                                <p>{{ .Summary }}<a href="{{ .Permalink }}">Читать далее</a></p>
+                                <p>
+                                {{if .Param "summary_enabled"}}
+                                {{ .Summary }}<br>
+                                    <a href="{{ .Permalink }}">Read More →</a>
+                                {{ else }}
+                                {{ .Content }}<br>
+                                    <a href="{{ .Permalink }}">Leave a Comment →</a>
+                                {{ end }}
+                                </p>
                             </div>
                         </div>
                     </article>
