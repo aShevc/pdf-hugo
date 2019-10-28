@@ -1,0 +1,130 @@
+---
+title: "2019-10-28: Open 20.3"
+date: 2019-10-28T06:00:00+03:00
+archives: "2019"
+tags: [wod]
+author: "Andriy Shevchenko"
+member_resource: false
+comments: true
+---
+
+<div id="accordion">
+{{% collapsible-card-md id="collapsible-card-1" header="WOD: Full Pack" dataParent="accordion"%}}
+<center>**For time:**
+
+•21 deadlifts (weight 1)
+
+•21 handstand push-ups / DB Push Presses
+
+•15 deadlifts (weight 1)
+
+•15 handstand push-ups / DB Push Presses
+
+•9 deadlifts (weight 1)
+
+•9 handstand push-ups / DB Push Presses
+
+•21 deadlifts (weight 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•15 deadlifts (weight 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•9 deadlifts (weight 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+♀ deadlift 70 then 93 kilos
+
+♂ deadlift 102 then 143 kilos
+
+**Выполнить на Время**
+
+•21 Становая Тяга
+
+•21 Отжиманий в Стойке на Руках / Швунг Гантелей
+
+•15 Становых Тяг
+
+•15 Отжиманий в Стойке на Руках / Швунгов Гантелей
+
+•9 Становых Тяг
+
+•9 Отжиманий в Стойке на Руках / Швунгов Гантелей
+
+•21 Становая Тяга(вес 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•15 Становых Тяг(вес 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•9 Становых Тяг (вес 2)
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+Ориентир по времени: первая часть задания около 5 минут, вторая до 10.
+Лимит времени 20 минут
+</center>
+{{% /collapsible-card-md %}}{{% collapsible-card-md id="collapsible-card-2" header="WOD: Essentials" dataParent="accordion"%}}
+<center>
+**For time:**
+•21 deadlifts (weight 1)
+
+•21 handstand push-ups / DB Push Presses
+
+•15 deadlifts (weight 1)
+
+•15 handstand push-ups / DB Push Presses
+
+•9 deadlifts (weight 1)
+
+•9 handstand push-ups / DB Push Presses
+
+•40 deadlifts
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•30 deadlifts
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•18 deadlifts
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+**Выполнить на Время**
+
+•21 Становая Тяга
+
+•21 Отжиманий в Стойке на Руках / Швунг Гантелей
+
+•15 Становых Тяг
+
+•15 Отжиманий в Стойке на Руках / Швунгов Гантелей
+
+•9 Становых Тяг
+
+•9 Отжиманий в Стойке на Руках / Швунгов Гантелей
+
+•40 Становая Тяга
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•30 Становых Тяг
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+•18 Становых Тяг
+
+•10*1.5m handstand walk / 2 Around the Worlds
+
+Ориентир по времени: первая часть задания около 5 минут, вторая до 10.
+
+Лимит времени 20 минут
+</center>
+{{% /collapsible-card-md %}}
+</div>
