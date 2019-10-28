@@ -7,7 +7,7 @@ author: "Andriy Shevchenko"
 member_resource: false
 comments: true
 ---
-
+<!--more-->
 <div id="accordion">
 {{% collapsible-card-md id="collapsible-card-1" header="WOD: Full Pack" dataParent="accordion"%}}
 <center>**For time:**
