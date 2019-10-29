@@ -3,6 +3,8 @@ title: "Недельный Пример Программы"
 date: 2019-10-23T10:05:03+03:00
 archives: "2019"
 tags: []
+url: "/sample-week"
+aliases: ["/2019/10/23/sample-programming-week"]
 author: Andriy Shevchenko
 member_resource: true
 comments: true

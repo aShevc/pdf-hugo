@@ -3,6 +3,7 @@ title: "О Программе People Doing Fitness"
 date: 2019-10-23T09:50:22+03:00
 archives: "2019"
 tags: []
+url: "/program"
 author: "Andriy Shevchenko"
 member_resource: true
 comments: true

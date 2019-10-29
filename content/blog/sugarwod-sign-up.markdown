@@ -3,6 +3,8 @@ title: "Как Присоединиться"
 date: 2019-10-23T15:16:22+03:00
 archives: "2019"
 tags: []
+url: "/sign-up"
+aliases: ["/2019/10/23/sugarwod-sign-up"]
 author: "Andriy Shevchenko"
 member_resource: true
 comments: true
