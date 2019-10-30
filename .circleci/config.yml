@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/buildpack-deps:xenial
+      - image: circleci/buildpack-deps:18.04-curl-browsers
     #machine:
       #image: ubuntu-1604:201903-01
 
@@ -13,16 +13,27 @@ jobs:
           name: Install Snap
           command:
             sudo apt install snapd
+# snap version
+
+      - run:
+          name: Snap version
+          command:
+            snap version
+
+      - run:
+          name: Snap status
+          command:
+            systemctl status snapd.service
 
       - run:
           name: Install Hugo
           command:
             sudo snap install hugo
 
-      #- run:
-      #   name: build
-      #   command: add snap to path?
-
+#      #- run:
+#      #   name: build
+#      #   command: add snap to path?
+#
       - run:
           name: Display version through snap
           command:
