@@ -9,35 +9,45 @@ jobs:
     steps:
       - checkout
 
-      - run:
-          name: Install Snap
-          command:
-            sudo apt install snapd
-# snap version
+#      - run:
+#          name: Install Snap
+#          command:
+#            sudo apt install snapd
+## snap version
+#
+#      - run:
+#          name: Snap version
+#          command:
+#            snap version
+#
+#      - run:
+#          name: Snap status
+#          command:
+#            systemctl status snapd.service
+
+#      - run:
+#          name: Install Hugo
+#          command:
+#            sudo snap install hugo
 
       - run:
-          name: Snap version
+          name: Download hugo
           command:
-            snap version
-
-      - run:
-          name: Snap status
-          command:
-            systemctl status snapd.service
-
-      - run:
-          name: Install Hugo
-          command:
-            sudo snap install hugo
+            curl -s https://api.github.com/repos/gohugoio/hugo/releases/20845719  | grep  browser_download_url  | grep Linux-64bit.deb  | grep -v extended  | cut -d '"' -f 4  | wget -i -
 
 #      #- run:
 #      #   name: build
 #      #   command: add snap to path?
 #
       - run:
+          name: install Hugo
+          command:
+            sudo dpkg -i hugo*_Linux-64bit.deb
+
+      - run:
           name: Display version through snap
           command:
-            snap run hugo version
+            hugo version
 
       - run:
           name: Set PK permissions
@@ -45,7 +55,7 @@ jobs:
 
       - run:
            name: build
-           command: snap run hugo
+           command: hugo
 
       - run:
           name: Clean copy dir
