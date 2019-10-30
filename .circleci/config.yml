@@ -10,6 +10,11 @@ jobs:
       - checkout
 
       - run:
+          name: Install Snap
+          command:
+            sudo apt install snapd
+
+      - run:
           name: Install Hugo
           command:
             sudo snap install hugo
