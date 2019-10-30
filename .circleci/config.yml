@@ -3,49 +3,23 @@ jobs:
   build:
     docker:
       - image: circleci/node:stretch
-    #machine:
-      #image: ubuntu-1604:201903-01
+        # @ checked with sha256:ed3cc8bbd2a1c99a3e9f3409dba8f56aba98a9f3b40b0c89dbb8f43a993984dd
 
     steps:
       - checkout
 
-#      - run:
-#          name: Install Snap
-#          command:
-#            sudo apt install snapd
-## snap version
-#
-#      - run:
-#          name: Snap version
-#          command:
-#            snap version
-#
-#      - run:
-#          name: Snap status
-#          command:
-#            systemctl status snapd.service
-
-#      - run:
-#          name: Install Hugo
-#          command:
-#            sudo snap install hugo
-
       - run:
-          name: Download hugo
+          name: Download Hugo
           command:
             curl -s https://api.github.com/repos/gohugoio/hugo/releases/20845719  | grep  browser_download_url  | grep Linux-64bit.deb  | grep -v extended  | cut -d '"' -f 4  | wget -i -
 
-#      #- run:
-#      #   name: build
-#      #   command: add snap to path?
-#
       - run:
-          name: install Hugo
+          name: Install Hugo
           command:
             sudo dpkg -i hugo*_Linux-64bit.deb
 
       - run:
-          name: Display version through snap
+          name: Display version
           command:
             hugo version
 
