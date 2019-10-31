@@ -7,9 +7,9 @@ author: Andriy Shevchenko
 member_resource: false
 comments: true
 summary_enabled: false
-draft:true
+draft: true
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTM5NjAzM119
+eyJoaXN0b3J5IjpbLTE5NzYyODA3NzddfQ==
 -->
