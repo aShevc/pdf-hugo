@@ -18,7 +18,7 @@ summary_enabled: false
 для своих тренировок, и которые помогают настроить нас на активный и 
 рабочий лад. Список будет пополняться со временем, enjoy!
 
-И да, делитесь, какую музыку слушаете и какими инструментами пользуетесь 
+И да, делитесь в комментариях какую музыку слушаете и какими инструментами пользуетесь вы
 
 {{% collapsible-card-md id="collapsible-card-pdf-playlists" header="People Doing Fitness Playlists"%}}
 [Mix I](https://play.google.com/music/playlist/AMaBXymTUS6ATbK1cRxJnfqJEQclMaW8QZsQZm6io7uchm1HneO98_qmFmpWhremtzeVXz0yokauYc-6Npquzkxm7KYodWenEA%3D%3D)
@@ -27,5 +27,5 @@ summary_enabled: false
 [People Doing Fitness Rocks](https://play.google.com/music/playlist/AMaBXynF-sOFeQ36iFSrmXWR7pYUhbQ8cj9cIbedrji7OGGsSWIsKIPV83PpfyxCm0ZoFanSmneO_eEg51hAvdu4_knV3ZyekQ%3D%3D)
 {{% /collapsible-card-md %}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTcyOTEzNl19
+eyJoaXN0b3J5IjpbMTk0ODg2NDc3XX0=
 -->
