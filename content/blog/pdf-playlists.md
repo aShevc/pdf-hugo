@@ -16,15 +16,19 @@ summary_enabled: false
 
 Ниже ссылки на плэйлисты в Google Music которые мы используем
 для своих тренировок, и которые помогают настроить нас на активный и 
-рабочий лад. Список будет пополняться со временем, enjoy
+рабочий лад. Список будет пополняться со временем, enjoy!
+
+И да, делитесь в комментариях какую музыку слушаете и какими инструментами пользуетесь вы
 
 {{% collapsible-card-md id="collapsible-card-pdf-playlists" header="People Doing Fitness Playlists"%}}
-
 [Mix I](https://play.google.com/music/playlist/AMaBXymTUS6ATbK1cRxJnfqJEQclMaW8QZsQZm6io7uchm1HneO98_qmFmpWhremtzeVXz0yokauYc-6Npquzkxm7KYodWenEA%3D%3D)
 
 [Mix II](https://play.google.com/music/playlist/AMaBXykuhla9eV5fsyDVe1-JUeMLqrriZZ3a7I8mbDE4o0esF2YpOQH99gFpkp5t8MQiFKpuUxYlV9F7gMGBNy10hEpXHuzGzA%3D%3D)
 
 [Mix III (Going Heavy)](https://play.google.com/music/playlist/AMaBXykLom1xAnYnu7zuREoysWfwYT3C1fO8CG1j0S7TYbUzwLnuc5VaRT_exwPFBapGGeoQJo6M-dyQ08pVXB92r8Z25IhruA%3D%3D)
 
-[PeopleDoingFitness Rocks](https://play.google.com/music/playlist/AMaBXynF-sOFeQ36iFSrmXWR7pYUhbQ8cj9cIbedrji7OGGsSWIsKIPV83PpfyxCm0ZoFanSmneO_eEg51hAvdu4_knV3ZyekQ%3D%3D)
+[People Doing Fitness Rocks](https://play.google.com/music/playlist/AMaBXynF-sOFeQ36iFSrmXWR7pYUhbQ8cj9cIbedrji7OGGsSWIsKIPV83PpfyxCm0ZoFanSmneO_eEg51hAvdu4_knV3ZyekQ%3D%3D)
 {{% /collapsible-card-md %}}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3NDA4MDc5OV19
+-->
