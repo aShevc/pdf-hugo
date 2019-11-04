@@ -1,6 +1,6 @@
 ---
-title: "Pistols / Пистолеты"
-date: 2019-11-03T10:45:47+02:00
+title: "Squat / Приседания"
+date: 2019-11-03T10:47:27+02:00
 archives: "2019"
 tags: [movement-coaching]
 author: "Andriy Shevchenko"
@@ -9,6 +9,4 @@ comments: true
 summary_enabled: false
 ---
 
-{{< youtube XJ1Y0dN-azE >}}
-
-
+{{< youtube Sp6-lJNzVM8 >}}
