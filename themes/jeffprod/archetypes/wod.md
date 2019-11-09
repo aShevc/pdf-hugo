@@ -1,6 +1,6 @@
 ---
 title: "{{ .Name | fmt.Printf "WOD %s" }}"
-date: {{ fmt.Printf "%sT06:00:00+02:00" .Name }}
+date: {{ fmt.Printf "%sT05:00:00+02:00" .Name }}
 archives: "{{ dateFormat "2006" now }}"
 tags: [wod]
 author: "Andriy Shevchenko"
