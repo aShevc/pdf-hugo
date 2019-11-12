@@ -30,6 +30,8 @@ summary_enabled: true
 
 [Squat / Приседания]({{< ref "squat" >}})
 
+[Deadlift / Становая Тяга]({{< ref "deadlift" >}})
+
 #### Гимнастика
 
 [Pistols (single-leg squats) / Пистолеты (приседания на одной ноге)]({{< ref "pistols" >}})
