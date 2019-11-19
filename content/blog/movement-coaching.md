@@ -32,6 +32,10 @@ summary_enabled: true
 
 [Deadlift / Становая Тяга]({{< ref "deadlift" >}})
 
+[Shoulder Press / Жим Стоя]({{< ref "shoulder-press" >}})
+
 #### Гимнастика
 
 [Pistols (single-leg squats) / Пистолеты (приседания на одной ноге)]({{< ref "pistols" >}})
+
+[Scaling the Ring Muscle Up / Масштабирование Выходов на Кольцах]({{< ref "ring-muscle-up-scaling" >}})
