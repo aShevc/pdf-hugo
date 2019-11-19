@@ -3,6 +3,7 @@ title: "Гид по правильному питанию"
 date: 2019-11-15T06:16:07+02:00
 archives: "2019"
 tags: []
+url: "/nutrition-guide"
 author: "Andriy Shevchenko"
 member_resource: false
 comments: true
