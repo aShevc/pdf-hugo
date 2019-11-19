@@ -3,6 +3,7 @@ title: "Руководство новичка"
 date: 2019-11-15T06:16:17+02:00
 archives: "2019"
 tags: []
+url: "/getting-started"
 author: "Andriy Shevchenko"
 member_resource: true
 comments: true
