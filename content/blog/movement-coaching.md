@@ -39,3 +39,7 @@ summary_enabled: true
 [Pistols (single-leg squats) / Пистолеты (приседания на одной ноге)]({{< ref "pistols" >}})
 
 [Scaling the Ring Muscle Up / Масштабирование Выходов на Кольцах]({{< ref "ring-muscle-up-scaling" >}})
+
+#### Моноструктурные Движения
+
+[Single and Double Unders / Прыжки на Скакалке]({{< ref "single-and-double-unders" >}})

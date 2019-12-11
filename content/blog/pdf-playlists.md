@@ -28,6 +28,8 @@ summary_enabled: false
 [Mix III (Going Heavy)](https://play.google.com/music/playlist/AMaBXykLom1xAnYnu7zuREoysWfwYT3C1fO8CG1j0S7TYbUzwLnuc5VaRT_exwPFBapGGeoQJo6M-dyQ08pVXB92r8Z25IhruA%3D%3D)
 
 [People Doing Fitness Rocks](https://play.google.com/music/playlist/AMaBXynF-sOFeQ36iFSrmXWR7pYUhbQ8cj9cIbedrji7OGGsSWIsKIPV83PpfyxCm0ZoFanSmneO_eEg51hAvdu4_knV3ZyekQ%3D%3D)
+
+[People Doing Fitness Soul](https://play.google.com/music/playlist/AMaBXyn4tzzVBmDp3zzzU5GIoV_ouKzNd80A1LIRFti0WOf1RnN-0u5J4Sq06SKMit00G2XGrHrKDoL_jogtM6GpkvLQkCpeqA%3D%3D)
 {{% /collapsible-card-md %}}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM3NDA4MDc5OV19
