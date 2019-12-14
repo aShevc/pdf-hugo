@@ -1,66 +1,169 @@
 ---
 title: "Упражнения для Растяжки и Мобилизации"
-date: 2019-11-09T20:38:31+02:00
+date: 2019-12-13T20:38:31+02:00
 archives: "2019"
 tags: []
 author: "Andriy Shevchenko"
 member_resource: false
 comments: true
-summary_enabled: false
-draft: true
+summary_enabled: true
+draft: false
 ---
 
-### 
+Ниже вы найдете варианты восстановительных и укрепляющих упражнений, которые 
+вы можете использовать в своем тренировочном процессе. Ниже вы найдете описание,
+которое подскажет на проработку каких проблем такие упражнения будут
+направлены, а также вспомогательные демо видео.
 
-Upper body:
-[Pec stretch](https://www.youtube.com/watch?v=o-wI5fpUAIE)
-[Front rack stretch](https://www.youtube.com/watch?v=Q2HBFAMOQlE)
+<!--more-->
 
-Shoulder Flexion: 
-[Wall Shoulder Stretch](https://www.youtube.com/watch?v=fd1sGGLRkZo) - can do prior
-CFG partner stretch
-[behind back clap]()
-[Behind neck stretch](https://www.youtube.com/watch?v=iYd1Cak8I5E)
-
-Shoulder Extension:
-CFG (sets of push ups)
-
-Shoulder & pecs:
-CFG - press elbows to the ground
-
-Thoracic extension:
-[Overhead Squat, narrow grip overhead squat] - prior
-[Snatch press](https://www.youtube.com/watch?v=XiCtAGjE3Tk) - prior
-[Thoracic opener on foam roll](https://www.youtube.com/watch?v=4_DUZpPAhVc) - prior or after
-[Warrior Squat]https://www.youtube.com/watch?v=EfUJgmgTvlI
-
-Lower back
-Release(laying on the back knees to chest and to sides)
-
-Quads
-[Kneeling lay back](https://www.youtube.com/watch?v=mLixclm7M8k)
-[Couch stretch](https://youtu.be/044mZGPhQdg)
-Glutes
-[Pigeon Stretch](https://www.youtube.com/watch?v=0pLAxROIaBM)
-[Поза барельиста]
-
-Hamstring
-[with band and a box](https://www.youtube.com/watch?v=YTU39VysckA)
-[Straddle Stretch / Панкейк](https://www.youtube.com/watch?v=ng_2V7Bq2ZY)
-[Downward Dog]
-
-Ankles
-[Dorsiflexion](https://www.youtube.com/watch?v=O9u1_Bvpng4)
-WIth band (as in squats)
-
-Back up
-[Bar hang](https://www.youtube.com/watch?v=f6EF4CnSo0Y)
-[Frog Stretch](https://www.youtube.com/watch?v=AgM-vN21rqg)
+### <center> Верхний плечевой пояс</center>
 
 
+**<center> Увеличение амплитуды движения в плече или грудном отделе позвоночника:</center>**
 
-Specific warm up movements
-[Wall squat](https://www.youtube.com/watch?v=pktIjwNiuYE)
-[BB Warm up](https://www.youtube.com/watch?v=mIjiebAcBJc)
+<br>
+
+**1. Растяжка плеч возле стены или на коробке** - 5 минут непрерывной растяжки
+
+* [Растяжка плеч у стены](https://www.youtube.com/watch?v=ttJru61sWk0) 
+* [Растяжка плеч у коробки](https://www.youtube.com/watch?v=bgjtkiVD1pQ) 
+* [Растяжка плеч с использованием внешней нагрузки](https://www.youtube.com/watch?v=VVeTLV6KoPQ)
+
+**2. Раскрытие плеч на массажном ролике** - 5 минут работы
+
+* [Раскрытие грудного отдела на ролике](https://youtu.be/9LJDGUulS_8?t=600)
+* [Раскрытие плеча на ролике](https://www.youtube.com/watch?v=4_DUZpPAhVc)
+
+**3. Вис на турнике** - аккумулировать 2 минуты виса
+
+* [Демо видео](https://www.youtube.com/watch?v=f6EF4CnSo0Y)
+
+**4. Растяжка плеч с палочкой** - аккумулировать 3 минуты растяжки
+
+* [Демо видео](https://www.youtube.com/watch?v=iYd1Cak8I5E)
+
+**5. Растяжка Оупен Бук** - 10 раз на руку. медленно и контролированно
+
+* [Растяжка Оупен Бук](https://youtu.be/o9CeFRr5CE0?t=323)
+* [Растяжка Оупен Бук для раскрытия в грудном отделе](https://www.youtube.com/watch?v=9LJDGUulS_8&feature=youtu.be&t=450)
+
+**6. Растяжка плечевого пояса на коробке с палочкой** - 5 минут непрерывной растяжки
+
+* [Растяжка грудного отдела позвоночника на коробке с палочкой](https://www.youtube.com/watch?v=9LJDGUulS_8&feature=youtu.be&t=667)
+* [Растяжка широчайшей мышцы на коробке с палочкой](https://youtu.be/Wx9lG1VTf-Q?t=300)
+
+**7. Растяжка разгибания в плече** - 5 минут непрерывной растяжки
+
+* [Демо видео](https://www.youtube.com/watch?v=iEHyNhW9VKk)
+
+**8. Растяжка вращения в плече с палочкой** - 3 минуты непрерывной растяжки на сторону
+
+* [Растяжка внутреннего вращения в плече](https://youtu.be/K938ohitkWo?t=55)
+* [Растяжка внешнего вращения в плече](https://youtu.be/K938ohitkWo?t=102)
+
+**<center> Помощь при зажатостях в конкретных группах мышц:</center>**
+
+<br>
+
+**1. Растяжка грудной мышцы**  - 3-5 минут непрерывной растяжки на сторону
+
+* [Демо видео](https://www.youtube.com/watch?v=JtxpCTVhWfE)
+
+**2. Самомассаж грудной мышцы** - 5 минут самомассажа на сторону
+
+* [Демо видео](https://www.youtube.com/watch?v=rwd_LSaKOYM)
+
+**3. Самомассаж широчайших мышц спины**  - 5 минут самомассажа на сторону
+
+* [Демо видео](https://youtu.be/Wx9lG1VTf-Q?t=240)
+
+**4. Самомассаж лопатки** - 5 минут самомассажа на сторону. Помогает при мышечных зажатостях и болях в плече
+
+* [Демо видео](https://youtu.be/wyh3W3wXxCU?t=163)
+
+####  <center> Бедра, колени и голень</center>
+
+**<center> Работа над приседаниями</center>**
+
+<br>
+
+**1. Приседания у стены** - 4-5 повторений
+
+* [Демо видео](https://www.youtube.com/watch?v=pktIjwNiuYE)
+
+**2. Приседания со штангой над головой.** 
+Выполнить 3 подхода: 5 приседаний с обычной широкой шириной хвата,
+на втором подходе возьмите хват немного уже,
+третий подход с максимально узкой шириной хвата
+
+* [Демо видео](https://www.youtube.com/watch?v=yt7y1_g_GCY)
+
+**3. Жим штанги рывковым хватом из седа** - 5 повторений
+
+* [Демо видео](https://www.youtube.com/watch?v=XiCtAGjE3Tk)
+
+**4. "Приседания воина"** - выполнить по 5 поворотов в каждую сторону
+
+* [Демо видео](https://www.youtube.com/watch?v=EfUJgmgTvlI)
+
+**5. Приседания с удержанием блинчика.** 5 повторений: 10 секунд опускания вниз, 10 секунд удержания позиции внизу
+
+* [Демо видео](https://youtu.be/q0G7SY1Ubjo?t=175)
+
+**6. Удержание гири в седе** - аккумулировать от 2 до 5 минут
+
+* [Демо видео](https://www.youtube.com/watch?v=nq3bm6dVnqw)
+
+**<center> Улучшение подвижности и укрепление вращателей бедра</center>**
+
+<br>
+
+**1. Самомассаж Ягодиц** - 5 минут самомассажа на сторону
+
+* [Демо видео](https://youtu.be/R1RZT0bohsw?t=160)
+
+**2. Растяжка ягодиц** - 5 минут непрерывной растяжки на сторону
+
+* [Поза голубя](https://youtu.be/R1RZT0bohsw?t=315)
+* [Поза голубя на две ноги - работа над внутренним вращением](https://www.youtube.com/watch?v=NCJpI60MyLY)
+
+**<center> Восстановление и укрепление разгибателей колена и сгибателей бедра</center>**
+
+<br>
+
+**1. Самомассаж передней поверхности бедра** - 5 минут самомассажа на сторону
+
+* [Самомассаж с помощью штанги](https://www.youtube.com/watch?v=6zxQkBZLoXs)
+* [Самомассаж с помощью ролика](https://youtu.be/nCHCUbssQq8?t=81)
+
+**2. Растяжка передней поверхности бедра** - 5 минут растяжки в седе на коленях либо 5 минут растяжки Кауч Стретч
+
+* [Растяжка в седе на коленях](https://youtu.be/nCHCUbssQq8?t=198)
+* [Кауч стретч](https://youtu.be/nCHCUbssQq8?t=347)
 
 
+**<center> Восстановление и укрепление мышц задней поверхности бедра</center>**
+
+<br>
+
+**1. Растяжка задней поверхности бедра** - 5 минут в позиции Панкейк либо 5 минут растяжки на каждую ногу на коробке или скамье
+
+* [Растяжка Панкейк](https://www.youtube.com/watch?v=rlsdNttI-mo)
+* [Растяжка задней поверхности бедра на коробке](https://www.youtube.com/watch?v=XQq7esZZyH0)
+
+**2. Самомассаж задней поверхности бедра** - 5 минут самомассажа на сторону
+
+* [Демо видео](https://www.youtube.com/watch?v=GE0wFesQDvA)
+
+**<center> Восстановление икроножной мышцы и улучшение подвижности голени</center>**
+
+<br>
+
+**1. Самомассаж икроножной мышцы** - 3 минуты на каждую ногу
+
+* [Демо видео](https://www.youtube.com/watch?v=rpVMZziJeY8)
+
+**2.Растяжка икроножной мышцы** - 3 минуты на каждую ногу
+
+* [Демо видео](https://www.youtube.com/watch?v=O9u1_Bvpng4)

@@ -34,3 +34,4 @@ summary_enabled: false
 
 [Оценка подвижности атлета]({{< ref "movement-screen" >}})
 
+[Упражнения для растяжки и мобилизации]({{< ref "stretching-and-mobilization" >}})
