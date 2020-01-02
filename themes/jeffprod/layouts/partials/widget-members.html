@@ -1,9 +1,11 @@
 <div class="card">
     <div class="card-content">
         <h1 class="title is-5">Member Resources</h1>
-        {{ range (where .Site.Pages "Params.member_resource" true) }}
-            <h1><a href="{{ .Permalink | absURL }}">{{ .Title }}</a></h1>
-        {{ end }}
+            <h1><a href="/program">О программе</a></h1>
+            <h1><a href="/sign-up">Как присоединиться</a></h1>
+            <h1><a href="/getting-started">Руководство новичка</a></h1>
+            <h1><a href="/movement-coaching">Обучение упражнениям</a></h1>
+            <h1><a href="/warm-up">Разминка</a></h1>
+            <h1><a href="/maintenance">Восстановительная работа</a></h1>
     </div>
 </div>
-    

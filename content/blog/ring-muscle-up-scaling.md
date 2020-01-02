@@ -7,6 +7,16 @@ author: "Andriy Shevchenko"
 member_resource: false
 comments: true
 summary_enabled: false
+url: "ring-muscle-up-scaling"
 ---
 
 {{< youtube 7gMPmQJz3BI >}}
+
+### <center>Разминка под строгие выходы на кольцах</center>
+
+**<center> Выполнить по 2-3 повторения**  
+Выходы на низких кольцах со стопами на полу    
+Выходы на низких кольцах стоя на коленях  
+Выходы на низких кольцах с ногами впереди  
+Выходы на кольцах
+</center>
