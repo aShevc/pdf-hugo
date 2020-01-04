@@ -55,6 +55,8 @@ url: "warm-up"
 
 [Толчок]({{< ref "push-jerk-warm-up" >}})
 
+[Тяга сумо к подбородку]({{< ref "sumo-dlhp-warm-up" >}})
+
 ### Работа с гантелями
 
 [Взятие гантелей]({{< ref "db-clean-warm-up" >}})
