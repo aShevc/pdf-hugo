@@ -10,6 +10,8 @@ summary_enabled: false
 url: "strict-hspu-warm-up"
 ---
 
+{{< youtube Iw_v9q7VbsA >}}
+
 **<center>По 20-30 секунд работы или 2-3 повторения***
 
 Стойка на голове с ногами на полу  
